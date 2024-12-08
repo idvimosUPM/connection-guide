@@ -1,6 +1,7 @@
 # connection-guide
 Code to add external Webots library into IntelliJ java project
 
+Java project version required is Java 17 with Gradle 8.8
 
 To build this project it is mandatory to add the VM option to the project configuration:
 
