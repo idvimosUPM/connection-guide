@@ -8,5 +8,6 @@
 /dataSources.local.xml
 # Gradle
 /.gradle/
+# Build
 /build/
 
